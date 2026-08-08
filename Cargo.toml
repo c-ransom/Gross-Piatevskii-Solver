@@ -1,0 +1,8 @@
+[package]
+name = "gross_pitaevskii"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ndarray = "0.17.2"
+rustfft = "6.4.1"
